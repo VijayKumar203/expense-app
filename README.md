@@ -202,7 +202,7 @@ Screenshots of the deployed application are available in the `app-demo` folder.
 
 ### Application Dashboard
 
-![Application Dashboard](app-demo/dashboard.png)
+![Application Dashboard](app-demo/home.png)
 
 ### Add Expense
 
@@ -210,7 +210,7 @@ Screenshots of the deployed application are available in the `app-demo` folder.
 
 ### Expense Details
 
-![Expense Details](app-demo/expense-details.png)
+![Expense Details](app-demo/view-expense.png)
 
 > The screenshots demonstrate the application after successful AWS deployment. The EC2 instances may not remain continuously running because AWS EC2 resources can incur charges.
 
